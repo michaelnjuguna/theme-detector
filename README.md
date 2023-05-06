@@ -35,4 +35,4 @@ If you like this project, You can support me with starring ⭐ this repository.
 
 ### License
 
-[MIT](LICENSE.txt)
+[MIT](License.txt)
