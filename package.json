@@ -1,6 +1,6 @@
 {
   "name": "theme-detector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check which theme the browser is using",
   "main": "index.js",
   "scripts": {
