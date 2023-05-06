@@ -1,6 +1,6 @@
 # Theme detector
 
-## Get the theme of the browser
+## Get the theme of the browser also works in ionic apps
 
 ### Install
 

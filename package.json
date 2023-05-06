@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelnjuguna/theme-detector.git"
+  },
   "keywords": [
     "theme",
     "browser",
     "light-theme",
     "dark-theme"
   ],
-  "author": "michael njuguna",
-  "license": "ISC"
+  "author": "michael njuguna MichaelNjuguna184@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelnjuguna/theme-detector/issues"
+  },
+  "homepage": "https://github.com/michaelnjuguna/theme-detector#README.md"
 }
